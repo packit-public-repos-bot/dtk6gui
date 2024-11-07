@@ -1,3 +1,9 @@
+dtk6gui (6.0.22) unstable; urgency=medium
+
+  * sync: from linuxdeepin/dtkgui
+
+ -- Deepin Packages Builder <packages@deepin.org>  Thu, 07 Nov 2024 08:48:53 +0000
+
 dtk6gui (6.0.21) unstable; urgency=medium
 
   * 6.0.21
